@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 从工作目录下的 `文档列表` 读取每条记录，尝试从记录中提取 arXiv id（若有），
 否则使用 arXiv API 搜索候选论文，生成映射表并输出为 `arxiv_mappings.json`。

@@ -1,0 +1,157 @@
+[
+    {
+        "source": "[1] Brown T, Mann B, Ryder N, et al. Language models are few-shot learners[J]. Advances in neural information processing systems, 2020, 33: 1877-1901.",
+        "arxiv_url": "http://arxiv.org/abs/2005.14165v4",
+        "arxiv_title": "Language Models are Few-Shot Learners"
+    },
+    {
+        "source": "[2] Achiam J, Adler S, Agarwal S, et al. Gpt-4 technical report[J]. arXiv preprint arXiv:2303.08774, 2023.",
+        "arxiv_url": "https://arxiv.org/abs/2303.08774",
+        "arxiv_title": null
+    },
+    {
+        "source": "[3] Hoffmann J, Borgeaud S, Mensch A, et al. Training compute-optimal large language models[C]\\/\\/Proceedings of the 36th International Conference on Neural Information Processing Systems. 2022: 30016-30030.",
+        "arxiv_url": "http://arxiv.org/abs/2203.15556v1",
+        "arxiv_title": "Training Compute-Optimal Large Language Models"
+    },
+    {
+        "source": "[4] Touvron H, Lavril T, Izacard G, et al. Llama: Open and efficient foundation language models[J]. arXiv preprint arXiv:2302.13971, 2023.",
+        "arxiv_url": "https://arxiv.org/abs/2302.13971",
+        "arxiv_title": null
+    },
+    {
+        "source": "[5] Touvron H, Martin L, Stone K, et al. Llama 2: Open foundation and fine-tuned chat models[J]. arXiv preprint arXiv:2307.09288, 2023.",
+        "arxiv_url": "https://arxiv.org/abs/2307.09288",
+        "arxiv_title": null
+    },
+    {
+        "source": "[6] Devlin J, Chang M W, Lee K, et al. Bert: Pre-training of deep bidirectional transformers for language understanding[C]\\/\\/Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics:",
+        "arxiv_url": "http://arxiv.org/abs/1810.04805v2",
+        "arxiv_title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    {
+        "source": "[7] Raffel C, Shazeer N, Roberts A, et al. Exploring the limits of transfer learning with a unified text-to-text transformer[J]. Journal of machine learning research, 2020, 21(140): 1-67.",
+        "arxiv_url": "http://arxiv.org/abs/1910.10683v4",
+        "arxiv_title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+    },
+    {
+        "source": "[8] Lewis P, Perez E, Piktus A, et al. Retrieval-augmented generation for knowledge-intensive nlp tasks[J]. Advances in neural information processing systems, 2020, 33: 9459-9474.",
+        "arxiv_url": "http://arxiv.org/abs/2005.11401v4",
+        "arxiv_title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+    },
+    {
+        "source": "[9] Borgeaud S, Mensch A, Hoffmann J, et al. Improving language models by retrieving from trillions of tokens[C]\\/\\/International conference on machine learning. PMLR, 2022: 2206-2240.",
+        "arxiv_url": "http://arxiv.org/abs/2112.04426v3",
+        "arxiv_title": "Improving language models by retrieving from trillions of tokens"
+    },
+    {
+        "source": "[10] Gao Y, Xiong Y, Gao X, et al. Retrieval-Augmented Generation for Large Language Models: A Survey[J]. CoRR, 2023.",
+        "arxiv_url": "http://arxiv.org/abs/2409.13385v2",
+        "arxiv_title": "Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey"
+    },
+    {
+        "source": "[11] Khandelwal U, Levy O, Jurafsky D, et al. Generalization through Memorization: Nearest Neighbor Language Models[C]\\/\\/International Conference on Learning Representations.",
+        "arxiv_url": "http://arxiv.org/abs/1911.00172v2",
+        "arxiv_title": "Generalization through Memorization: Nearest Neighbor Language Models"
+    },
+    {
+        "source": "[12] Zhang Z, Dai Q, Bo X, et al. A survey on the memory mechanism of large language model-based agents[J]. ACM Transactions on Information Systems, 2025, 43(6): 1-47.",
+        "arxiv_url": "http://arxiv.org/abs/2404.13501v1",
+        "arxiv_title": "A Survey on the Memory Mechanism of Large Language Model based Agents"
+    },
+    {
+        "source": "[13] Zhong W, Guo L, Gao Q, et al. Memorybank: Enhancing large language models with long-term memory[C]\\/\\/Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(17): 19724-19731.",
+        "arxiv_url": "http://arxiv.org/abs/2305.10250v3",
+        "arxiv_title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+    },
+    {
+        "source": "[14] Fathullah Y, Wu C, Lakomkin E, et al. Audiochatllama: Towards general-purpose speech abilities for llms[C]\\/\\/Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Lang",
+        "arxiv_url": "http://arxiv.org/abs/2311.06753v2",
+        "arxiv_title": "AudioChatLlama: Towards General-Purpose Speech Abilities for LLMs"
+    },
+    {
+        "source": "[15] Arandas L, Grierson M, Carvalhais M. Antagonising explanation and revealing bias directly through sequencing and multimodal inference[J]. arXiv e-prints, 2023: arXiv: 2309.12345.",
+        "arxiv_url": "https://arxiv.org/abs/2309.12345",
+        "arxiv_title": null
+    },
+    {
+        "source": "[16] Shinn N, Cassano F, Gopinath A, et al. Reflexion: Language agents with verbal reinforcement learning[J]. Advances in Neural Information Processing Systems, 2023, 36: 8634-8652.",
+        "arxiv_url": "http://arxiv.org/abs/2303.11366v4",
+        "arxiv_title": "Reflexion: Language Agents with Verbal Reinforcement Learning"
+    },
+    {
+        "source": "[17] HU M, MU Y, YU X, et al. Tree-Planner: Efficient Close-loop Task Planning with Large Language Models[C]\\/\\/ Kim B, Yue Y, Chaudhuri S, et al. International Conference on Learning Representations. 2024: 48669-48696.",
+        "arxiv_url": "http://arxiv.org/abs/2310.08582v2",
+        "arxiv_title": "Tree-Planner: Efficient Close-loop Task Planning with Large Language Models"
+    },
+    {
+        "source": "[18] Masson S J, Yan Z, Ho J, et al. State-insensitive wavelengths for light shifts and photon scattering from Zeeman states[J]. Physical Review A, 2024, 109(6): 063105.",
+        "arxiv_url": "http://arxiv.org/abs/2312.08370v2",
+        "arxiv_title": "State-insensitive wavelengths for light shifts and photon scattering from Zeeman states"
+    },
+    {
+        "source": "[19] Xu W, Mei K, Gao H, et al. A-mem: Agentic memory for llm agents[J]. arXiv preprint arXiv:2502.12110, 2025.",
+        "arxiv_url": "https://arxiv.org/abs/2502.12110",
+        "arxiv_title": null
+    },
+    {
+        "source": "[20] Xiong Z, Lin Y, Xie W, et al. How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior[J]. arXiv e-prints, 2025: arXiv: 2505.16067.",
+        "arxiv_url": "https://arxiv.org/abs/2505.16067",
+        "arxiv_title": null
+    },
+    {
+        "source": "[21] Yang C, Yang X, Wen L, et al. Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-Horizon Tasks[J]. arXiv preprint arXiv:2510.08002, 2025.",
+        "arxiv_url": "https://arxiv.org/abs/2510.08002",
+        "arxiv_title": null
+    },
+    {
+        "source": "[22] Chatterjee M, Agarwal D. Semantic Anchoring in Agentic Memory: Leveraging Linguistic Structures for Persistent Conversational Context[J]. arXiv preprint arXiv:2508.12630, 2025.",
+        "arxiv_url": "https://arxiv.org/abs/2508.12630",
+        "arxiv_title": null
+    },
+    {
+        "source": "[23] Lu B R, Hu Y, Cheng H, et al. Unsupervised Learning of Hierarchical Conversation Structure[C]\\/\\/Findings of the Association for Computational Linguistics: EMNLP 2022. 2022: 5657-5670.",
+        "arxiv_url": "http://arxiv.org/abs/2205.12244v2",
+        "arxiv_title": "Unsupervised Learning of Hierarchical Conversation Structure"
+    },
+    {
+        "source": "[24] Ou L, Lapata M. Context-aware hierarchical merging for long document summarization[J]. arXiv preprint arXiv:2502.00977, 2025.",
+        "arxiv_url": "https://arxiv.org/abs/2502.00977",
+        "arxiv_title": null
+    },
+    {
+        "source": "[25] Park J S, O'Brien J, Cai C J, et al. Generative agents: Interactive simulacra of human behavior[C]\\/\\/Proceedings of the 36th annual acm symposium on user interface software and technology. 2023: 1-22.",
+        "arxiv_url": "http://arxiv.org/abs/2304.03442v2",
+        "arxiv_title": "Generative Agents: Interactive Simulacra of Human Behavior"
+    },
+    {
+        "source": "[26] Wang G, Xie Y, Jiang Y, et al. Voyager: An Open-Ended Embodied Agent with Large Language Models[J]. Transactions on Machine Learning Research.",
+        "arxiv_url": "http://arxiv.org/abs/2305.16291v2",
+        "arxiv_title": "Voyager: An Open-Ended Embodied Agent with Large Language Models"
+    },
+    {
+        "source": "[27] Ake D, Bouzas A O, Larios F. Top Quark Flavor Changing Couplings at a Muon Collider, Adv[J]. High Energy Phys, 2024, 2038180(2311.09488).",
+        "arxiv_url": "https://arxiv.org/abs/2311.09488",
+        "arxiv_title": null
+    },
+    {
+        "source": "[28] Liu X, Yu H, Zhang H, et al. AgentBench: Evaluating LLMs as Agents[C]\\/\\/The Twelfth International Conference on Learning Representations.",
+        "arxiv_url": "http://arxiv.org/abs/2308.03688v3",
+        "arxiv_title": "AgentBench: Evaluating LLMs as Agents"
+    },
+    {
+        "source": "[29] Yan S, Yang X, Huang Z, et al. Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning[J]. arXiv preprint arXiv:2508.19828, 2025.",
+        "arxiv_url": "https://arxiv.org/abs/2508.19828",
+        "arxiv_title": null
+    },
+    {
+        "source": "[30] Zhang Z, Dai Q, Li R, et al. Learn to memorize: Optimizing llm-based agents with adaptive memory framework[J]. arXiv preprint arXiv:2508.16629, 2025.",
+        "arxiv_url": "https://arxiv.org/abs/2508.16629",
+        "arxiv_title": null
+    },
+    {
+        "source": "[31] Ai Q, Tang Y, Wang C, et al. MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems[J]. arXiv preprint arXiv:2510.17281, 2025.",
+        "arxiv_url": "https://arxiv.org/abs/2510.17281",
+        "arxiv_title": null
+    }
+]
