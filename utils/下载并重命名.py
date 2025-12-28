@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 解析 `arxiv_mappings.json`，通过 `arxiv_url` 下载论文 PDF，并根据 `source` 字段重命名文件名。
 
