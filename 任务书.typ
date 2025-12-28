@@ -14,17 +14,17 @@
 + 如何设计动态记忆管理机制，实现记忆的写入、更新、反思、合并与遗忘？
 + 整体系统如何评估？记忆质量与检索有效性如何量化？
 == 毕业设计（论文）应完成的工作：
-+ 系统架构设计
-设计 Tri-Memory 三层记忆结构与存储 schema。
-设计动态记忆管理框架：写入、合并、遗忘、删除、反思。
-+ 核心算法实现
-实现语义检索（RAG）、图谱扩展、时间权重与多因素重排。
-实现记忆演化（经验驱动）与错误传播控制机制。
-+ 系统开发与 Demo 实现
-记忆存储模块、检索模块、外部文件导入模块、Agent 回答模块。
-实现一个可运行的 LLM Agent Demo，展示记忆增强能力。
-+ 实验设计与评估
-对比 A-Mem、MemoryBank 等 baseline。
++ 系统架构设计\
+ 设计 Tri-Memory 三层记忆结构与存储 schema。
+ 设计动态记忆管理框架：写入、合并、遗忘、删除、反思。
++ 核心算法实现\
+ 实现语义检索（RAG）、图谱扩展、时间权重与多因素重排。
+ 实现记忆演化（经验驱动）与错误传播控制机制。
++ 系统开发与 Demo 实现\
+ 记忆存储模块、检索模块、外部文件导入模块、Agent 回答模块。
+ 实现一个可运行的 LLM Agent Demo，展示记忆增强能力。
++ 实验设计与评估\
+ 对比 A-Mem、MemoryBank 等 baseline。
 == 参考资料推荐：
 [1] Brown T, Mann B, Ryder N, et al. Language models are few-shot learners[J]. Advances in neural information processing systems, 2020, 33: 1877-1901.
 
